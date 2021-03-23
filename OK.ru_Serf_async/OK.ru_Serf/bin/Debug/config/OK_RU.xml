@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<RECIPE>
+	<URL url="https://ok.ru">
+		<LOGIN text="">field_email</LOGIN>
+		<PASSWORD text="">field_password</PASSWORD>
+		<URLSERCH url="https://www.ok.ru/groups/search"/>
+		<SAERCHLIST pash="searchFolder\OK_RU.txt"/>
+		<IGNORLIST pash="ignorFolder\OK_RU.txt"/>
+		<FROMEMAIL addres="" password="" host="smtp.gmail.com" port="25"/>
+		<TOEMAIL addres=""/>
+	</URL>
+</RECIPE>
